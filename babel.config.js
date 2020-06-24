@@ -15,6 +15,8 @@ module.exports = {
       alias: {
         '@config': './src/config',
         '@models': './src/models',
+        '@routes': './src/routes',
+        '@services': './src/services',
         '@controllers': './src/controllers',
         '@views': './src/views'
       }
