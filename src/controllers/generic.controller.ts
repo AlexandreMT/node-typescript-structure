@@ -1,5 +1,5 @@
 import { Request, Response } from 'express'
-import GenericService from '@services/Generic.service'
+import GenericService from '@services/generic.service'
 
 class GenericController {
   public genericFunction(req: Request, res: Response): Response {

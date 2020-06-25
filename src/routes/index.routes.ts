@@ -1,4 +1,4 @@
-import GenericRoutes from './Generic.routes'
+import GenericRoutes from './generic.routes'
 
 export const routes = [
   GenericRoutes

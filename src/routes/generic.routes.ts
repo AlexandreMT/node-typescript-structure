@@ -1,5 +1,5 @@
 import { Router } from 'express'
-import GenericController from '@controllers/Generic.controller'
+import GenericController from '@controllers/generic.controller'
 
 const GenericRoutes = Router()
 
